@@ -1,1 +1,2 @@
-﻿LINK : fatal error LNK1104: cannot open file 'glut32.lib'
+﻿  Clg_view.cpp
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'

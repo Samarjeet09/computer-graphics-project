@@ -1,2 +1,3 @@
 C:\Users\Dell\source\repos\Clg_view\Debug\Clg_view.exe
 C:\Users\samar\Downloads\Final Project\Final Project\Clg_view\Debug\Clg_view.exe
+C:\Users\user\Desktop\THAPAR3D\computer-graphics-project\Debug\Clg_view.exe

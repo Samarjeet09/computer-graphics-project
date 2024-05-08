@@ -1541,7 +1541,7 @@ int main()
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);
     glutInitWindowSize(500, 500);
     glutInitWindowPosition(40, 40);
-    glutCreateWindow("TIET CAMPUS");
+    glutCreateWindow("Thapar3d");
     glutReshapeFunc(changeSize); // window reshape callback
     glutDisplayFunc(display);
 
