@@ -1002,9 +1002,9 @@ public:
         glPopMatrix();
     }
 };
-building gblock(20, 30, -30);
+building gblock(20, 30, -30, 0.59, 0.0, 0.1);
 building mech(20, 40, -40);
-building coscomplex(20, 40, -40);
+building coscomplex(20, 40, -40, 0.545, 0.451, 0.333);
 building admin(40, 30, -20);
 building ec(40, 30, -30);
 building cs(30, 40, -40);
